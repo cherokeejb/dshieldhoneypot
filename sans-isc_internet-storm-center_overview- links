@@ -1,0 +1,125 @@
+-
+--
+Links
+
+
+---
+#this are links cited in variuos talks or direct people to surrounding the Sans Internet Storm Center (DShield)
+#
+- howto contribute overall page 
+https://isc.sans.edu/howto.html
+
+youtube channel (includes raspi video)
+**https://www.youtube.com/channel/UCfbOsqPmWg1H_34hTjKEW2A
+
+
+links
+ISC/DShield Contact form:
+https://isc.sans.edu/contact.html
+
+Slack
+https://isc.sans.edu/slack
+
+Github
+ISC/Dshield: https://github.com/jullrich/ISC-Bugs/issues 
+Honeypot: https://github.com/DShield-ISC/dshield
+
+"Tech tuesday, installing in the honeypot" (part 2 of 2)
+https://www.youtube.com/watch?v=Ebo7BO1p8Yg
+
+accompaning wiki page
+
+more basic overview, longer, full raspberry pi setup
+https://www.youtube.com/watch?v=fMqhoNnyvmE
+---
+
+
+
+Links I mentioned that were mention in stormcast podcast or cited in diaries:
+
+Russ McRee mentioned Carrie Roberts, Kirk Sayre, Harold Ogden
+https://isc.sans.edu/forums/diary/ViperMonkey+VBA+maldoc+deobfuscation/24346
+had links to blogs & others
+https://medium.com/walmartlabs/evasive-vba-advanced-maldoc-techniques-1365e9373f80
+My guest blog on comparing atomic red team and others
+https://redcanary.com/blog/comparing-red-team-platforms/
+
+Cited also several times various tools by Carrie Roberts:
+https://github.com/clr2of8
+
+
+
+ISC TV intro
+https://www.youtube.com/watch?v=ZaU6-AMwCLI
+
+
+
+honeypot (main)
+https://isc.sans.edu/forums/diary/Beta+Testers+Wanted+Use+a+Raspberry+Pi+as+a+DShield+Sensor/20717
+main "data" page
+https://isc.sans.edu/reports.html
+
+
+
+Interesting related talk by Johannes, also lots of good links:
+
+https://isc.sans.edu/forums/diary/Tech+Tuesday+Recap+Recordings+Part+2+Installing+the+Honeypot+release/26280/
+**https://dshield-isc.github.io/techtuesday/
+
+
+
+REST API concepts and examples - fun/popular examples
+by WebConcepts on Youtube
+
+See youtube: 
+"google/youtube what is a REST API" - added them in github links
+https://www.youtube.com/watch?v=7YcW25PHnAA
+
+maps.googleapis.com /
+graphs.facebook.com "graphs" api from facebook e.g.graphs.facebook.com/[site]   api/fields= , ,, (to limit)
+Instagram's Media Search API
+Twitter's Status Update API.
+
+
+
+
+again, the video  & honeypot setup
+
+*https://dshield-isc.github.io/techtuesday/ (show)
+"Tech tuesday, installing in the honeypot" (part 2 of 2)
+https://www.youtube.com/watch?v=Ebo7BO1p8Yg
+
+accompaning wiki page
+
+more basic overview, longer, full raspberry pi setup
+https://www.youtube.com/watch?v=fMqhoNnyvmE
+
+Easiest way to reach  -
+e-mail or contact form on https://isc.sans.edu
+or on
+dshieldusers.slack.com
+
+
+
+other recc. communities :
+leanin.org 
+
+https://leanin.org/circles/infosec-bookclub
+
+atomicredteam.slack.com & github wiki
+
+atomicredteam.slack.com & github wiki
+https://github.com/redcanaryco/invoke-atomicredteam/wiki
+
+brakesec.slack.com
+
+threathunting.slack.com 
+-
+
+
+
+
+this doc
+https://github.com/cherokeejb/sans-isc_internet-storm-center_overview-
+--
+---
