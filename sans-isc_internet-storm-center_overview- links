@@ -4,9 +4,9 @@ Links
 
 
 ---
-#this are links cited in variuos talks or direct people to surrounding the Sans Internet Storm Center (DShield)
+#These are links cited in various talks about the Sans Internet Storm Center (DShield):
 #
-- howto contribute overall page 
+"How to contribute" overall page 
 https://isc.sans.edu/howto.html
 
 youtube channel (includes raspi video)
@@ -27,7 +27,7 @@ Honeypot: https://github.com/DShield-ISC/dshield
 "Tech tuesday, installing in the honeypot" (part 2 of 2)
 https://www.youtube.com/watch?v=Ebo7BO1p8Yg
 
-accompaning wiki page
+accompanying wiki page
 
 more basic overview, longer, full raspberry pi setup
 https://www.youtube.com/watch?v=fMqhoNnyvmE
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=fMqhoNnyvmE
 
 
 
-Links I mentioned that were mention in stormcast podcast or cited in diaries:
+Links mentioned that were mention in stormcast podcast or cited in diaries:
 
 Russ McRee mentioned Carrie Roberts, Kirk Sayre, Harold Ogden
 https://isc.sans.edu/forums/diary/ViperMonkey+VBA+maldoc+deobfuscation/24346
